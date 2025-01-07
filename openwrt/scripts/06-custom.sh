@@ -8,7 +8,6 @@
 git clone https://$github/sbwml/openwrt-alist package/new/alist
 git clone https://$github.com/sirpdboy/sirpdboy-package/tree/main/luci-app-advancedplus
 git clone https://$github.com/sirpdboy/luci-app-poweroffdevice package/luci-app-poweroffdevice
-git clone https://$github.com/kenzok8/openwrt-packages/tree/master/luci-app-adguardhome
 git clone https://$github.com/sirpdboy/sirpdboy-package/tree/main/luci-theme-kucat
 git clone https://$github.com/sirpdboy/sirpdboy-package/tree/main/luci-app-socat
 # lrzsz - add patched package
