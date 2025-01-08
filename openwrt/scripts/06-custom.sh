@@ -7,9 +7,9 @@
 # alist - add new package
 # git clone https://$github/sbwml/openwrt-alist package/new/alist
 git clone https://$github.com/sirpdboy/luci-app-advancedplus
-git clone https://$https://github.com/sirpdboy/luci-app-poweroffdevice
-git clone https://$git clone https://github.com/sirpdboy/luci-app-advanced
-git clone https://$github.com/sirpdboy/luci-app-socat
+git clone https://$github.com/sirpdboy/luci-app-poweroffdevice
+git clone https://$github.com/sirpdboy/luci-app-advanced
+git clone https://$github.com/openwrt-develop/luci-theme-kucat
 # lrzsz - add patched package
 rm -rf feeds/packages/utils/lrzsz
 git clone https://$github/sbwml/packages_utils_lrzsz package/new/lrzsz
