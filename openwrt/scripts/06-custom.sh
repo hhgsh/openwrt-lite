@@ -10,6 +10,7 @@ git clone https://$github.com/sirpdboy/luci-app-advancedplus
 git clone https://$github.com/sirpdboy/luci-app-poweroffdevice
 git clone https://$github.com/sirpdboy/luci-app-advanced
 git clone https://$github.com/openwrt-develop/luci-theme-kucat
+git clone https://$github.com/sirpdboy/luci-app-parentcontrol
 # lrzsz - add patched package
 rm -rf feeds/packages/utils/lrzsz
 git clone https://$github/sbwml/packages_utils_lrzsz package/new/lrzsz
